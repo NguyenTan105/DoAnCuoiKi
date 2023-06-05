@@ -1,4 +1,9 @@
 # Đồ án cuối kì (Môn thiết kế giao diện)
+>Thành viên:
+>- Nguyễn Khắc Minh Tân_2174802010439 (Nhóm trưởng)
+>- Đỗ Thị Thanh Loan_2174802010580
+>- 
+
 ### Đề tài: Thiết kế giao diện website tin tức (như báo thanh niên, báo tuổi trẻ,...)
 *Link tham khảo (Việt Nam)*
 1. [Báo thanh niên](https://thanhnien.vn/)
