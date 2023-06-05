@@ -1,0 +1,45 @@
+html{
+    font-size: 100%;
+}
+body {
+    background-color: #f1f1f1;;
+    text-align: center;
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+img.home-page{
+    width:20px;
+    position: relative;
+    bottom: -4px;
+    right: 3px;
+    margin-top: -10px;
+}
+ul.menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+    background-color: #333;
+    
+}
+ul.menu li {
+	float: left;
+}
+ul.menu li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul.menu li a:hover:not(.active) {background-color: #111;}
+
+ul.menu li a.active {background-color: #04AA6D;}
+
+ul.menu li.right {float: right;}
+@media screen and (max-width: 600px) {
+    ul.menu li.right, 
+    ul.menu li {float: none;}
+}
