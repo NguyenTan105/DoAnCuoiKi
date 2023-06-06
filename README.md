@@ -43,7 +43,9 @@ Kết thúc phần học lý thuyết sinh viên hoàn thành phần duyệt Lay
 
 >**2. Đáp ứng tất cả chỉ tiêu trong phần lí thuyết elearning**
   - Cấu trúc website
-  - Thói quen người dùng dựa trên đặc tính của website
+  - [Thói quen người dùng dựa trên đặc tính của website (UCD/UX)](https://elearning.vanlanguni.edu.vn/pluginfile.php/1657608/mod_resource/content/1/C1-Thiet%20ke%20UCD.pdf)
+    - UCD (User center design) lấy người dùng làm trung tâm
+    - UX (User experience) trải nghiệm người dùng
   - Hệ thống liên kết
   - Tương tác trên web
   - Màu sắc, hình thức thể hiện,… 
