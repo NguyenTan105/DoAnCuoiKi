@@ -1,7 +1,9 @@
 # Đồ án cuối kì (Môn thiết kế giao diện)
 >Thành viên:
 >- Nguyễn Khắc Minh Tân_2174802010439 (Nhóm trưởng)
+  *(account Github: NguyenTan105)*
 >- Đỗ Thị Thanh Loan_2174802010580
+  *(account Github: )*
 >- 
 
 ### Đề tài: Thiết kế giao diện website tin tức (như báo thanh niên, báo tuổi trẻ,...)
@@ -24,19 +26,33 @@
 7. [NBC News](https://www.nbcnews.com/)
 
 ## Mục tiêu dự án
-- Đáp ứng tất cả chỉ tiêu trong phần lí thuyết elearning
+### Giai đoạn 1: Giảng đề và khảo sát thực tế
+>**1. Nghiên cứu lí thuyết**
+  - Nội dung lý thuyết về Thiết kế Website, các phương pháp nghiên cứu, khảo sát thực tế, đánh giá tính khả thi và triển khai nghiên cứu.
+>**2. Sử dụng các phần mềm thiết kế giao diện** 
+  - [Figma](https://www.figma.com/login)
+  - Photoshop
+>**3. Ngôn ngữ lập trình**
+  - HTML & CSS
+  - Framework phổ biến Bootstrap sử dụng trong lĩnh vực thiết kế website.
+
+Kết thúc phần học lý thuyết sinh viên hoàn thành phần duyệt Layout của Website.
+### Giai đoạn 2: Triển khai thiết kế
+>**1. Tham khảo**
+- Chọn một thương hiệu có sẵn trên thị trường để thực hiện thiết kế giao diện website cho thương hiệu đó hoặc xây dựng một portfolio online cho cá nhân/nhóm. (**link tham khảo để ở trên**)
+
+>**2. Đáp ứng tất cả chỉ tiêu trong phần lí thuyết elearning**
   - Cấu trúc website
   - Thói quen người dùng dựa trên đặc tính của website
   - Hệ thống liên kết
   - Tương tác trên web
   - Màu sắc, hình thức thể hiện,… 
+  - User flow và wireframe.
   - Kết hợp với sitemap (XML, HTML)
     **Sitemap HTML**
-    - ![Sitemap HTML](Images/SitemapHTML.png) 
+    - ![Sitemap HTML](Images/SitemapHTML.png)
+     
     **Sitemap XML**
     - ![Sitemap XML](Images/SitemapXML.png)
-  - User flow và wireframe.
 
-- Sử dụng các phần mềm thiết kế giao diện 
-  - Figma
-  - Photoshop
+>**Thể hiện một bản prototype website có thể chạy được**
