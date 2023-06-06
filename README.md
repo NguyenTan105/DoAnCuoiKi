@@ -26,8 +26,17 @@
 ## Mục tiêu dự án
 - Đáp ứng tất cả chỉ tiêu trong phần lí thuyết elearning
   - Cấu trúc website
-  - Thói quen người dùng dựa trên đặc tính của website, 
+  - Thói quen người dùng dựa trên đặc tính của website
   - Hệ thống liên kết
   - Tương tác trên web
   - Màu sắc, hình thức thể hiện,… 
-  - Kết hợp với sitemap, user flow và wireframe.
+  - Kết hợp với sitemap (XML, HTML)
+    **Sitemap HTML**
+    - ![Sitemap HTML](Images/SitemapHTML.png) 
+    **Sitemap XML**
+    - ![Sitemap XML](Images/SitemapXML.png)
+  - User flow và wireframe.
+
+- Sử dụng các phần mềm thiết kế giao diện 
+  - Figma
+  - Photoshop
