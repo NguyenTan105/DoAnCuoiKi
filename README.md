@@ -4,7 +4,8 @@
   *(account Github: NguyenTan105)*
 >- Đỗ Thị Thanh Loan_2174802010580
   *(account Github: )*
->- 
+>- Nguyễn Hoàng Minh_2174802010185
+  *(account Github: minhhoang9555)*
 
 ### Đề tài: Thiết kế giao diện website tin tức (như báo thanh niên, báo tuổi trẻ,...)
 *Link tham khảo (Việt Nam)*
