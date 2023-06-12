@@ -25,6 +25,7 @@
 5. [The New York Times](https://www.nytimes.com/international/)
 6. [Fox News](https://www.foxnews.com/)
 7. [NBC News](https://www.nbcnews.com/)
+8. [BBC News](https://www.bbc.com/news)
 
 ## Mục tiêu dự án
 ### Giai đoạn 1: Giảng đề và khảo sát thực tế
