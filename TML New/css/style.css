@@ -1,0 +1,56 @@
+.custom-bg{
+    background-color: #a7d857;
+}
+.custom-bg1{
+    background-color: #c7cfbf;
+}
+.custom-icon {
+    color: red; /* Change this to your desired color */
+  }
+.navbar-nav .nav-link {
+    color: black; /* Set the initial color of nav-link */
+    transition: color 0.3s; /* Add transition effect for smooth color change */
+    font-size: 15px;
+    font-weight: 600;
+    
+}  
+.navbar-nav .nav-link:hover {
+    color:#198754;
+}
+.signin{
+    color: black; /* Set the initial color of nav-link */
+    transition: color 0.3s; /* Add transition effect for smooth color change */
+    font-size: 1px;
+    font-weight: 600;
+    position: fixed;
+}
+.account{
+    position: relative;
+    right:30px;
+    padding-right: 10px;
+} 
+.news .nav-link{
+    position: relative;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    bottom: 10px;
+    height: 20px;
+
+}
+.news .nav-item{
+    position: relative;
+    top: 15px;
+}
+.news{
+    position: relative;
+    bottom: 16px;
+    left: -12px;
+}
+section{
+    position: relative;
+    top: 10px;
+}
+
+
+
