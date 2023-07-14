@@ -1,91 +1,69 @@
 .custom-bg{
     background-color: #a7d857;
 }
-.custom-bg1{
-    background-color: #c7cfbf;
-}
 .custom-icon {
     color: red; /* Change this to your desired color */
   }
 .navbar-nav .nav-link {
-    color: black; /* Set the initial color of nav-link */
+    color: white; /* Set the initial color of nav-link */
     transition: color 0.3s; /* Add transition effect for smooth color change */
     font-size: 15px;
     font-weight: 600;
     
-}  
-.navbar-nav .nav-link:hover {
+} 
+.content{
+	text-decoration: none;
+	color: #8792A7;
+} 
+.signin{
+	color: white;
+	text-decoration: none;
+}
+.signin:hover{
+	color: #59bd40fc;
+}
+.news .nav-link:hover {
     color:#198754;
 }
-.signin{
-    color: black; /* Set the initial color of nav-link */
-    transition: color 0.3s; /* Add transition effect for smooth color change */
-    font-size: 1px;
-    font-weight: 600;
-    position: fixed;
-}
-.account{
-    position: relative;
-    right:30px;
-    padding-right: 10px;
-} 
-.news .nav-link{
-    position: relative;
-    font-size: 16px;
-    padding-left: 10px;
-    padding-right: 10px;
-    bottom: 10px;
-    height: 20px;
 
-}
 .news .nav-item{
-    position: relative;
-    top: 15px;
+    padding-right: 25px;
 }
-.news{
-    position: relative;
-    bottom: 16px;
-    left: -12px;
+.menu .nav-link{
+    margin-bottom: -2px;
 }
-section{
-    position: relative;
-    top: 10px;
+.menu .nav{
+    padding: 0px 15px 0px 15px; 
+    color: black;
+    text-decoration: none;
+    border-right: rgb(233, 227, 227) solid 0.1px;
+}
+.menu .active{
+	background-color: #27885b;
+}
+.menu .nav-item a:hover{
+    background: #6db16b;
+}
+.divider{
+    margin: 0;
+}
+.dropbox{
+    border-radius: 0;
 }
 
-a{
+.main-content{
 	color: #cc6060;
 	text-decoration: none;
 }
 
-a:hover{
+.main-content:hover{
 	color: #33ff00fc;
 }
 .logo-wrapper{
 	text-transform: uppercase;
 	padding: 30px 0px;
 }
-.menu{
-	padding-left: 0px;
-	background: #ffb0fcfc;
-}
-.menu .container{
-	padding-left: 0px;
-}
-.menu-items .active{
-	background: #97cfff;
-}
-.menu .menu-items a{
-	text-decoration: none;
-	color: #fff;
-	padding: 10px 20px;
-	display: block;
-}
-.menu .menu-items a:hover{
-	background: #2483d6;
-}
-.thumb{
-	width: 100%;
-}
+
 .main-news{
 	margin-top: 20px;
 }
@@ -96,6 +74,10 @@ a:hover{
 	font-size: 17px;
 	text-decoration: none;
 	font-weight: 600;
+}
+
+.thumb{
+	width: 100%;
 }
 .image{
 	overflow: hidden;
@@ -150,6 +132,7 @@ small{
 }
 .summary{
 	color: #777;
+	/* overflow:scroll; */
 }
 .trending .row{
 	padding-bottom: 15px;
